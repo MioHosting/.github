@@ -26,3 +26,5 @@ MioHosting only has one developer, and development may take a while.
 If you are looking for Minecraft server hosts, we have some recommendations:
 - [Aternos](https://aternos.org): Minecraft servers. Free. Forever.
 - [exaroton](https://exaroton.com): A usage based paid host, made by Aternos GmbH.
+
+*MioHosting is not affiliated to Aternos GmbH and the mentioned hosts.*
